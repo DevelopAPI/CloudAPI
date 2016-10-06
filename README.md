@@ -1,2 +1,11 @@
-# CloudAPI
 CloudAPI
+========
+
+CloudAPI
+
+
+License
+-------
+
+MIT License
+
